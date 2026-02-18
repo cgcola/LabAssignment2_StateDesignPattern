@@ -63,3 +63,4 @@
 <hr>
 
 ### UML Diagram:
+<img width="4005" height="1072" alt="image" src="https://github.com/user-attachments/assets/988ccdda-a407-4c1d-a256-443d8cd9ed20" />
